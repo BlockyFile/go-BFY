@@ -1,0 +1,1 @@
+go run build/ci.go install ./cmd/geth
